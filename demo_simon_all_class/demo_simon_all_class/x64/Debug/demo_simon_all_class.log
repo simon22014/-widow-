@@ -1,0 +1,10 @@
+﻿  c4-pedestrian-detector.cpp
+e:\demon\demo_simon_all_class\demo_simon_all_class\c4-pedestrian-detector.cpp(777): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+e:\demon\demo_simon_all_class\demo_simon_all_class\c4-pedestrian-detector.cpp(781): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+e:\demon\demo_simon_all_class\demo_simon_all_class\c4-pedestrian-detector.cpp(810): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+e:\demon\demo_simon_all_class\demo_simon_all_class\c4-pedestrian-detector.cpp(821): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+e:\demon\demo_simon_all_class\demo_simon_all_class\c4-pedestrian-detector.cpp(880): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+e:\demon\demo_simon_all_class\demo_simon_all_class\c4-pedestrian-detector.cpp(1063): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\demon\demo_simon_all_class\demo_simon_all_class\c4-pedestrian-detector.cpp(1133): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  demo_simon_all_class.vcxproj -> E:\demon\demo_simon_all_class\x64\Debug\demo_simon_all_class.exe
+  demo_simon_all_class.vcxproj -> E:\demon\demo_simon_all_class\x64\Debug\demo_simon_all_class.pdb (Full PDB)
